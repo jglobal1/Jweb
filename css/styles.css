@@ -1,0 +1,36 @@
+body{
+
+    background-image: url("IMG_20220124_104806_763.jpg");
+    }
+    
+    hr {
+    
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: gray;
+    border-width: 4px;
+    width: 5%;
+    }
+    
+    img {
+    height: 300;
+    }
+
+    h1{
+        color: blueviolet;
+    }
+
+    h2{
+        color:  wheat;
+    }
+    h3{
+        color:  gainsboro;
+    }
+    h4{
+        color:  gainsboro;
+    }
+
+    h2{
+
+        text-decoration: underline;
+    }
