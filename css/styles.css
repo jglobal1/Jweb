@@ -1,6 +1,6 @@
 body{
 
-    background-image: url("IMG_20220124_104806_763.jpg");
+    background-image: url("pexels-johannes-plenio-1103970.jpg");
     }
     
     hr {
@@ -14,7 +14,14 @@ body{
     
     img {
     height: 300;
-    }
+    shape-outside: circle(100%);
+    clip-path: circle(10rem at 12rem 8rem);
+        
+
+}
+    
+      
+
 
     h1{
         color: blueviolet;
