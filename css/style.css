@@ -1,0 +1,73 @@
+.top-container{
+     background-color: #E4F9F5;
+   position: relative;
+   padding-top: 100px;
+}
+
+
+body{
+    margin:0 ;
+    text-align: center;
+    background-color: rgb(235, 245, 242);
+    font-family:'Merriweather', serif;
+}
+
+
+h1{
+
+    font-family: 'Sacramento', cursive,serif;
+    font-size: 100px;
+}
+
+h2{
+    
+    margin: 0 auto;
+    font-family: 'Montserrat' sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat' sans-serif;
+}
+
+.bottom-cloud{
+    margin: 0;
+   position:absolute;
+   left: 120px;
+    bottom: 250px;
+} 
+
+.top-cloud{
+    margin: 0;
+    position:absolute;
+    left: 1000px;
+    top: 50px;
+}
+
+.johnson-profile{
+    width: 300px;
+    height: 180px;
+    shape-outside: circle(50%);
+    clip-path: circle();
+    position: relative;
+    
+}
+
+.skills1{
+position: relative;
+top: 20px;
+height: 250px;
+widows: 300px;
+shape-outside: circle();
+clip-path: circle(50%);
+border: 20px;
+}
+.skills2{
+    position: relative;
+    top:20px;
+    height: 250px;
+    widows: 300px;
+    shape-outside: circle();
+    clip-path: circle(50%);
+    border: 20px;
+  
+}
